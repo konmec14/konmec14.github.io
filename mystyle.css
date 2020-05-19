@@ -1,0 +1,49 @@
+h1{
+	font-size: 7.5vw;
+	color: green;
+}	
+
+h4{
+	font-size: 2vw;
+	font-style: italic;
+}	
+
+h1, h2, h3, h4, h5, h6{
+	font-family: Verdana, sans-serif;
+	font-style: bold;
+}
+
+body{
+	color: white;
+	font-family: Georgia, sans-serif;
+}	
+
+#indexBody{
+	text-align: center;
+	background-color: black;
+}
+
+#petBody{
+	background-image: url('images/doggosmall.jpg');
+}
+
+A{
+	text-decoration: none;
+}
+
+.homeButton{
+	font-size: 3vw;
+	font-style: bold;
+}
+
+.backImage{
+	height: 100%;
+}
+
+.pictureButton{
+	width: 25%;
+}
+
+#buttonDiv{
+	margin: 0;
+}
