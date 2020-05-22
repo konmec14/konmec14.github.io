@@ -54,7 +54,7 @@ body{
 }
 
 #cat{
-	width: 300px;;
+	width: 300px;
 }
 
 .hyperlinkHome{
@@ -70,6 +70,15 @@ nav{
 	text-align: center;
 	font-size: 60px;
 }
+
+A{
+	text-decoration: none;
+}
+
+.hyperlinkHome{
+	text-decoration: underline;
+}
+	
 
 .nextButton{
 	float:right;
