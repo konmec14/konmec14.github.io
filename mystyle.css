@@ -39,8 +39,13 @@ body{
 	font-size: 25px;
 }
 
+#luckyBody{
+	text-align: center;
+	background-color: orange;
+}
+
 #townBody{
-	background-color:#90ff4a;
+	background-color:#ADD8E6;
 	font-size: 25px;
 }
 
@@ -48,17 +53,22 @@ body{
 	width: 200px;
 }
 
-figure{
-	float:right;
+#cat{
+	width: 300px;;
 }
 
-A{
-	text-decoration: none;
+.hyperlinkHome{
+	font-size: 2.5vw;
+}
+
+figure{
+	float:right;
 }
 
 nav{
 	border: dotted;
 	text-align: center;
+	font-size: 60px;
 }
 
 .nextButton{
