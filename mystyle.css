@@ -33,8 +33,6 @@ body{
 }
 
 #petBody{
-<<<<<<< HEAD
-<<<<<<< HEAD
 	background-image: url('images/doggosmall.jpg');
 	font-size: 25px;
 }
@@ -50,12 +48,8 @@ body{
 
 figure{
 	float:right;
-=======
 	background-image: url('images/doggosmall.JPG');
->>>>>>> 66a6aba60d8d50c366021ae4b3ebebd4efc2e927
-=======
 	background-image: url('images/doggosmall.JPG');
->>>>>>> 66a6aba60d8d50c366021ae4b3ebebd4efc2e927
 }
 
 A{
