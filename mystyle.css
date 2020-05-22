@@ -13,27 +13,64 @@ h1, h2, h3, h4, h5, h6{
 	font-style: bold;
 }
 
+td{
+	width:25%;
+}
+
+table{
+	width:80%;
+}
+
 body{
-	color: white;
 	font-family: Georgia, sans-serif;
+	font-size: 25px;
 }	
 
 #indexBody{
+	color: white;
 	text-align: center;
 	background-color: black;
 }
 
 #petBody{
 	background-image: url('images/doggosmall.jpg');
+	font-size: 25px;
+}
+
+#townBody{
+	background-color:#90ff4a;
+	font-size: 25px;
+}
+
+#townImage{
+	width: 200px;
+}
+
+figure{
+	float:right;
 }
 
 A{
 	text-decoration: none;
 }
 
+nav{
+	border: dotted;
+	text-align: center;
+}
+
+.nextButton{
+	float:right;
+	font-size:60px;
+}
+
+.surpriseButton{
+	font-size: 60px;
+}
+
 .homeButton{
-	font-size: 3vw;
-	font-style: bold;
+	float:left;
+	font-size: 60px;
 }
 
 .backImage{
@@ -41,7 +78,7 @@ A{
 }
 
 .pictureButton{
-	width: 25%;
+	width: 100%;
 }
 
 #buttonDiv{
